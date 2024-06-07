@@ -79,7 +79,7 @@ About the app: The app allows you to register artists, songs, search for an arti
 
 All registrations and queries are sent to/from a relational database.
 
-Used: Spring, Spring Data JPA, PostgreSQL, JPQL, derived queries, enum.
+Used: Spring, Spring Data JPA, PostgreSQL, JPQL, derived queries, Enums.
 '''
 
 [params.three]
