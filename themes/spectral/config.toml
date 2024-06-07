@@ -19,9 +19,9 @@ body_is_markdown = true
 
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
+    tag = ""
+    category = ""
+    series = ""
 
 [params.one]
 enable = true
