@@ -1,0 +1,165 @@
+baseURL = "/"
+title = "Spectral"
+languageCode = "pt-br"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+#googleAnalytics = "G-XXXXXXXXXX"
+
+[params]
+fancyTitle = "Gerfy"
+copyright = "Gerfy"
+description = 'Back-End Developmente Student<br/>Creating the future of technology<br />'
+startbuttonText = "Start"
+startbuttonLink = "#"
+body_is_markdown = true
+#custom_css = "foo.css"
+#custom_sass = "bar.scss"
+#images = ["banner.jpg"]
+
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Currently studying systems development at IESP college.'
+body = '''
+CURRENTLY STUDYING SYSTEMS DEVELOPMENT AT IESP COLLEGE.
+Currently, I am focused on improving my systems development skills at IESP college. I seek to absorb knowledge and practical experience to build a solid foundation in this dynamic and challenging area. I am excited about the learning and growth opportunities that college and courses offers, and I look forward to applying what I learn to future projects'''
+
+[[params.one.icon]]
+icon = "fa-face-laugh-beam"
+style = "1"
+label = "Lorem"
+
+[[params.one.icon]]
+icon = "fa-heart"
+style = "2"
+label = "Ipsum"
+
+[[params.one.icon]]
+icon = "solid fa-code"
+style = "3"
+label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/Code-typing-bro-_1_.png"
+img_alt = "blurry background: white/grey"
+title = 'Consult CEP:<br />Oracle ONE'
+body = '''
+About the app: The application performs the postcode query, checking that the number entered is valid. If it is, the programme will inform you of the location of that postcode. 
+
+You can consult new postcodes or close and obtain a file with all the postcodes consulted. 
+
+Used: API, Json, FileWriter
+'''
+[[params.two.section]]
+img = "img/Coding-amico-_1_.png"
+title = 'FIPE APP:<br />Solo project'
+body = '''
+About the app: The app allows users to check average vehicle prices based on the Fipe Table. The Fipe Table is an important reference for negotiating and evaluating vehicles in the Brazilian market.
+Users can search for cars, lorries and motorbikes. 
+
+The application allows you to check average prices according to the month and year of reference. You can also search by make, model and year of the vehicle you want.
+
+Used: API, Json, Spring, Maven
+'''
+
+[[params.two.section]]
+img = "img/Coding-bro-_1_.png"
+title = 'MatchMusic:<br />Solo project'
+body = '''
+About the app: The app allows you to register artists, songs, search for an artist's songs and define the type of artist (solo, duo or band).
+
+All registrations and queries are sent to/from a relational database.
+
+Used: Spring, Spring Data JPA, PostgreSQL, JPQL, derived queries, enum.
+'''
+
+[params.three]
+enable = true
+title = 'Skills and main points '
+body = '''
+Creativity, adaptability, emotional intelligence, collaboration, service orientation and cognitive flexibility are some of my soft skills:
+'''
+
+[[params.three.feature]]
+icon = "fa-comments"
+title = "Effective communication and transparency"
+body = "Ability to communicate clearly, transparently and proactively with clients, colleagues and project managers. Ability to understand customer needs, manage expectations and resolve problems collaboratively."
+
+[[params.three.feature]]
+icon = "solid fa-laptop"
+title = "Creative Problem Solving"
+body = "Ability to think innovatively and find creative solutions to complex software development challenges. Demonstrates ability to innovate and adapt to different situations."
+
+[[params.three.feature]]
+icon = "solid fa-code"
+title = "Commitment to deadlines and quality:"
+body = "Proven ability to meet deadlines and deliver high-quality projects within the established scope. Confidence in meeting customer or employer expectations."
+
+[[params.three.feature]]
+icon = "solid fa-user"
+title = "Focus on user experience"
+body = "Commitment to creating user-centric products, ensuring they are intuitive, accessible and provide an excellent end-user experience."
+
+[[params.three.feature]]
+icon = "fa-heart"
+title = "Passion for software development"
+body = "Genuine commitment to software and technology development, demonstrating a willingness to exceed expectations and deliver exceptional results for clients or employers."
+
+[[params.three.feature]]
+icon = "fa-handshake"
+title = "Collaboration and Teamwork"
+body = "Ability to collaborate effectively with colleagues, promoting a collaborative work environment. Ability to share ideas, respect opinions and work together to achieve shared goals."
+
+[params.cta]
+enable = false
+title = "Arcue ut vel commodo"
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+[[params.cta.link]]
+href = "#"
+text = "Activate"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Learn More"
+special = false
+
+[params.contact]
+enable = false
+phone = "+5583988442527"
+email = "gerfynlol@gmail.com"
+subject = "New Submission!"
+formspree_form_id = "example_invalid"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = "Gerfy1"
+facebook = "in/geraldoaafilho"
+youtube = ""
+instagram = "codedbygerfy"
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
+
+[languages.es]
+weight = 10
+languageName = "Español"
