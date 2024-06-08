@@ -152,7 +152,6 @@ input, select, textarea {
 		background-position: fixed;
 		background-repeat: repeat;
 		background-size: contain;
-		background-position-x: -5vh;
 		z-index: -1;			
 	}
 
