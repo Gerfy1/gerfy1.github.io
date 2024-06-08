@@ -61,7 +61,7 @@ You can consult new postcodes or close and obtain a file with all the postcodes 
 Used: API, Json, FileWriter
 '''
 [[params.two.section]]
-img = "img/Coding-amico-_1_.png"
+img = "img/Hand-coding-bro-_1_.png"
 title = 'FIPE APP:<br />Solo project'
 body = '''
 About the app: The app allows users to check average vehicle prices based on the Fipe Table. The Fipe Table is an important reference for negotiating and evaluating vehicles in the Brazilian market.
