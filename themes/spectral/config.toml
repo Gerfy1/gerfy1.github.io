@@ -136,7 +136,7 @@ special = false
 
 [params.contact]
 enable = false
-phone = "+5583988442527"
+phone = ""
 email = "gerfynlol@gmail.com"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
