@@ -28,8 +28,7 @@ body_is_markdown = true
 enable = true
 title = 'Currently studying systems development at IESP college.'
 body = '''
-CURRENTLY STUDYING SYSTEMS DEVELOPMENT AT IESP COLLEGE.
-Currently, I am focused on improving my systems development skills at IESP college. I seek to absorb knowledge and practical experience to build a solid foundation in this dynamic and challenging area. I am excited about the learning and growth opportunities that college and courses offers, and I look forward to applying what I learn to future projects'''
+Currently i am focused on improving my systems development skills at IESP college. I seek to absorb knowledge and practical experience to build a solid foundation in this dynamic and challenging area. I am excited about the learning and growth opportunities that college and courses offers, and I look forward to applying what I learn to future projects'''
 
 [[params.one.icon]]
 icon = "fa-face-laugh-beam"
