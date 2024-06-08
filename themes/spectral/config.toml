@@ -69,8 +69,11 @@ Users can search for cars, lorries and motorbikes.
 
 The application allows you to check average prices according to the month and year of reference. You can also search by make, model and year of the vehicle you want.
 
-Used: API, Json, Spring, Maven
+Used: API, Json, Spring , Maven
+
+Project: (https://github.com/Gerfy1/fipeAPP)
 '''
+
 
 [[params.two.section]]
 img = "img/Coding-bro-_1_.png"
