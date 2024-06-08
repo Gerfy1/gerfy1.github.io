@@ -8,6 +8,7 @@ theme = "spectral"
 
 [params]
 fancyTitle = "Gerfy"
+favicon = true
 copyright = "Gerfy"
 description = 'Back-End Developmente Student<br/>Creating the future of technology<br />'
 startbuttonText = "Start"
