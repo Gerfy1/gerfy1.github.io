@@ -19,7 +19,7 @@ window.onbeforeunload = function () {
     const userLang = navigator.language || navigator.userLanguage; 
     if (!document.cookie.includes('lang')) {
       if (userLang.includes('pt')) {
-        window.location.href = "/pt/";
+        window.location.href = "/";
       } else {
         window.location.href = "/";
       }
