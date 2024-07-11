@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "Spectral"
 languageCode = "pt-br"
-defaultContentLanguage = "de"
+defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 #googleAnalytics = "G-XXXXXXXXXX"
@@ -166,3 +166,7 @@ languageName = "Deutsch"
 [languages.es]
 weight = 10
 languageName = "Español"
+
+[languages.pt]
+languageName = "Português"
+weight = 2
