@@ -49,7 +49,7 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "img/Code-typing-bro-_1_.png"
+img = "img/Code-typing-bro-_1_-resize.png"
 img_alt = "blurry background: white/grey"
 title = 'Consult CEP:<br />Oracle ONE'
 body = '''
@@ -60,7 +60,7 @@ You can consult new postcodes or close and obtain a file with all the postcodes 
 Used: API, Json, FileWriter
 '''
 [[params.two.section]]
-img = "img/Hand-coding-bro-_1_.png"
+img = "img/Hand-coding-bro-_1_-resize.png"
 title = 'FIPE APP:<br />Solo project'
 body = '''
 About the app: The app allows users to check average vehicle prices based on the Fipe Table. The Fipe Table is an important reference for negotiating and evaluating vehicles in the Brazilian market.
@@ -75,7 +75,7 @@ Project: (https://github.com/Gerfy1/fipeAPP)
 
 
 [[params.two.section]]
-img = "img/Coding-bro-_1_.png"
+img = "img/Coding-bro-_1_-resize.png"
 title = 'MatchMusic:<br />Solo project'
 body = '''
 About the app: The app allows you to register artists, songs, search for an artist's songs and define the type of artist (solo, duo or band).
