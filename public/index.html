@@ -305,20 +305,7 @@ Users can search for cars, lorries and motorbikes.</p>
 window.onbeforeunload = function () {
   window.scrollTo(0, 0);
 }
-</script>
-<script>
-  document.addEventListener('DOMContentLoaded', (event) => {
-    const userLang = navigator.language || navigator.userLanguage; 
-    if (!document.cookie.includes('lang')) {
-      if (userLang.includes('pt')) {
-        window.location.href = "/pt/";
-      } else {
-        window.location.href = "/";
-      }
-    }
-  });
-</script>
-		
+</script>	
 
 
 	</body>
