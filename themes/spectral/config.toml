@@ -58,20 +58,19 @@ O FipeApp é uma aplicação Java que permite aos usuários consultar preços m�
 A aplicação permite consultar preços médios de acordo com o mês e ano de referência. Você também pode pesquisar por marca, modelo e ano do veículo desejado.
 
 Tecnologias utilizadas: Java, API, Json, Spring, Maven
-Project Link: (https://github.com/Gerfy1/FipeAPP)
+Link do projeto: (https://github.com/Gerfy1/FipeAPP)
 '''
 [[params.two.section]]
 img = "img/Hand-coding-bro-_1_-resize.png"
-title = 'FIPE APP:<br />Solo project'
+title = 'MedAPI'
 body = '''
-About the app: The app allows users to check average vehicle prices based on the Fipe Table. The Fipe Table is an important reference for negotiating and evaluating vehicles in the Brazilian market.
-Users can search for cars, lorries and motorbikes. 
+Este projeto desenvolve uma API REST para gerenciar operações em um consultório médico, abrangendo tanto o lado do cliente quanto do servidor, e integrando ambos. 
 
-The application allows you to check average prices according to the month and year of reference. You can also search by make, model and year of the vehicle you want.
+Este projeto visa demonstrar a aplicação prática dessas tecnologias e práticas no contexto de desenvolvimento de APIs RESTful para aplicações corporativas.
 
-Used: API, Json, Spring , Maven
+Tecnologias utilizadas: Java, DTO, Banco de Dados, Flyway, Requisições HTTP, Beans, Spring Security, JWT, Spring Doc, Fluxo Given/When/Then, JUnit & AssetJ, Mockito
 
-Project: (https://github.com/Gerfy1/fipeAPP)
+Link do projeto: (https://github.com/Gerfy1/MedAPI)
 '''
 
 
