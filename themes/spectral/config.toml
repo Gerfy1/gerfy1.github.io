@@ -62,7 +62,7 @@ Link do projeto: (https://github.com/Gerfy1/FipeAPP)
 '''
 [[params.two.section]]
 img = "img/Hand-coding-bro-_1_-resize.png"
-title = 'MedAPI'
+title = 'Med API'
 body = '''
 Este projeto desenvolve uma API REST para gerenciar operações em um consultório médico, abrangendo tanto o lado do cliente quanto do servidor, e integrando ambos. 
 
