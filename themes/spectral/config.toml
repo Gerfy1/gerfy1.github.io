@@ -80,8 +80,7 @@ title = 'Forum HUB'
 body = '''
 O Fórum Hub é um desafio proposto na conclusão do programa Oracle ONE. O projeto visa consolidar conhecimentos e replicar a parte de Back-End de um fórum, focando em práticas de desenvolvimento e integração de sistemas.
 
-As regras de negócio estabelecem que apenas usuários cadastrados podem criar, editar ou deletar tópicos e respostas em um fórum. A autenticação é realizada por meio de tokens Bearer, garantindo segurança nas requisições. Além disso, somente o autor de um tópico ou resposta tem permissão para editá-lo ou excluí-lo. Cada tópico deve conter um título, uma mensagem, estar vinculado a um curso e incluir uma data de criação gerada automaticamente.
-
+As regras de negócio determinam que apenas usuários cadastrados podem criar, editar ou deletar tópicos e respostas. A autenticação é feita com tokens Bearer, e somente o autor pode modificar seu conteúdo. Cada tópico deve ter um título, uma mensagem, estar vinculado a um curso e incluir uma data de criação.
 Tecnologias utilizadas: Java, Spring, MySQL, Hibernate, JWT, Lombok, Flyway, Spring Security, Spring Data JPA, SpringDoc
 
 Link do projeto: (https://github.com/Gerfy1/ForumHub)
