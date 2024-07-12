@@ -30,6 +30,8 @@
     {{ template "_internal/twitter_cards.html" . }}
     {{ template "_internal/opengraph.html" . }}
     {{ partial "hooks/head-end.html" . }}
+
+	  
 	</head>
 	<body class="landing is-preload">
 
@@ -38,17 +40,16 @@
 
 				<!-- Header -->
           <header id="header"{{ if .Page.IsHome }} class="alt"{{ end }}>
-            <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
 						<nav id="nav">
 							<ul>
 								<li class="special">
-									<div id="menu">
-										<ul>
-				              {{ range .Site.Params.menu.main }}
-				              <li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
-				              {{ end }}
-										</ul>
-									</div>
+									<nav id="language-menu">
+		<ul>
+		  <li>
+			<a href="{{ "/en/" | relLangURL }}" lang="en">English</a>
+		  </li>
+		</ul>
+	  </nav>
 								</li>
 							</ul>
 						</nav>
