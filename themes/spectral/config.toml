@@ -89,9 +89,9 @@ Link do projeto: (https://github.com/Gerfy1/ForumHub)
 
 [params.three]
 enable = true
-title = 'Skills and main points '
+title = 'Habilidades e pontos principais'
 body = '''
-Creativity, adaptability, emotional intelligence, collaboration, service orientation and cognitive flexibility are some of my soft skills:
+Pensamento crítico, adaptabilidade, criatividade, aprendizado contínuo e flexibilidade cognitiva são algumas das minhas soft skills. Conheça um pouco mais sobre elas abaixo.
 '''
 
 [[params.three.feature]]
