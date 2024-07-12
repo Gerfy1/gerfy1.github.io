@@ -96,33 +96,33 @@ Pensamento crítico, adaptabilidade, criatividade, aprendizado contínuo e flexi
 
 [[params.three.feature]]
 icon = "fa-comments"
-title = "Effective communication and transparency"
-body = "Ability to communicate clearly, transparently and proactively with clients, colleagues and project managers. Ability to understand customer needs, manage expectations and resolve problems collaboratively."
+title = "Comunicação eficaz e transparência"
+body = "Capacidade de se comunicar de forma clara, transparente e proativa com clientes, colegas e gerentes de projeto. Capacidade de entender as necessidades do cliente, gerenciar expectativas e resolver problemas de forma colaborativa."
 
 [[params.three.feature]]
 icon = "solid fa-laptop"
-title = "Creative Problem Solving"
-body = "Ability to think innovatively and find creative solutions to complex software development challenges. Demonstrates ability to innovate and adapt to different situations."
+title = "Solução criativa em resolução de problemas"
+body = "Capacidade de pensar de forma inovadora e encontrar soluções criativas para desafios complexos de desenvolvimento de software. Demonstra capacidade de inovar e se adaptar a diferentes situações."
 
 [[params.three.feature]]
 icon = "solid fa-code"
-title = "Commitment to deadlines and quality:"
-body = "Proven ability to meet deadlines and deliver high-quality projects within the established scope. Confidence in meeting customer or employer expectations."
+title = "Compromisso com prazos e qualidade"
+body = "Capacidade comprovada de cumprir prazos e entregar projetos de alta qualidade dentro do prazo estabelecido. Confiança em atender às expectativas do cliente ou empregador."
 
 [[params.three.feature]]
 icon = "solid fa-user"
-title = "Focus on user experience"
-body = "Commitment to creating user-centric products, ensuring they are intuitive, accessible and provide an excellent end-user experience."
+title = "Foco na experiência do usuário"
+body = "Compromisso em criar produtos centrados no usuário, garantindo que sejam intuitivos, acessíveis e proporcionem uma excelente experiência ao usuário final."
 
 [[params.three.feature]]
 icon = "fa-heart"
-title = "Commitment for software development"
-body = "Genuine commitment to software and technology development, demonstrating a willingness to exceed expectations and deliver exceptional results for clients or employers."
+title = "Compromisso com o desenvolvimento de software"
+body = "Compromisso genuíno com o desenvolvimento de software e tecnologia, demonstrando vontade de superar expectativas e entregar resultados excepcionais para clientes e empregadores."
 
 [[params.three.feature]]
 icon = "fa-handshake"
-title = "Collaboration and Teamwork"
-body = "Ability to collaborate effectively with colleagues, promoting a collaborative work environment. Ability to share ideas, respect opinions and work together to achieve shared goals."
+title = "Colaboração e trabalho em equipe"
+body = "Capacidade de colaborar de forma eficaz com colegas, promovendo um ambiente de trabalho colaborativo. Capacidade de compartilhar ideias, respeitar opiniões e trabalhar em conjunto para alcançar objetivos comuns."
 
 [params.cta]
 enable = false
