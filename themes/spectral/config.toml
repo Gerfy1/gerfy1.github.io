@@ -51,13 +51,12 @@ enable = true
 [[params.two.section]]
 img = "img/Code-typing-bro-_1_-resize.png"
 img_alt = "blurry background: white/grey"
-title = 'Consult CEP:<br />Oracle ONE'
+title = 'FIPE APP<br/>'
 body = '''
-About the app: The application performs the postcode query, checking that the number entered is valid. If it is, the programme will inform you of the location of that postcode. 
+O FipeApp é um aplicativo Java que permite aos usuários consultar preços médios de veículos com base na Tabela Fipe. A Tabela Fipe é uma referência importante para negociações e avaliações de veículos no mercado nacional.
 
-You can consult new postcodes or close and obtain a file with all the postcodes consulted. 
-
-Used: API, Json, FileWriter
+Tecnologias utilizadas: Java, API, Json, FileWriter
+Project Link: (https://github.com/Gerfy1/fipeAPP)
 '''
 [[params.two.section]]
 img = "img/Hand-coding-bro-_1_-resize.png"
