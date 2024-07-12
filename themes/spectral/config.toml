@@ -76,13 +76,13 @@ Link do projeto: (https://github.com/Gerfy1/MedAPI)
 
 [[params.two.section]]
 img = "img/Coding-bro-_1_ -resize.png"
-title = 'MatchMusic:<br />Solo project'
+title = 'Forum HUB'
 body = '''
-About the app: The app allows you to register artists, songs, search for an artist's songs and define the type of artist (solo, duo or band).
+O Fórum Hub é um desafio proposto na conclusão do programa Oracle ONE. O projeto visa consolidar conhecimentos e replicar a parte de Back-End de um fórum, focando em práticas de desenvolvimento e integração de sistemas.
 
-All registrations and queries are sent to/from a relational database.
+As regras de negócio estabelecem que apenas usuários cadastrados podem criar, editar ou deletar tópicos e respostas em um fórum. A autenticação é realizada por meio de tokens Bearer, garantindo segurança nas requisições. Além disso, somente o autor de um tópico ou resposta tem permissão para editá-lo ou excluí-lo. Cada tópico deve conter um título, uma mensagem, estar vinculado a um curso e incluir uma data de criação gerada automaticamente.
 
-Used: Spring, Spring Data JPA, PostgreSQL, JPQL, Derived Queries, Enums.
+Tecnologias utilizadas: Java, Spring, MySQL, Hibernate, JWT, Lombok, Flyway, Spring Security, Spring Data JPA, SpringDoc
 '''
 
 [params.three]
