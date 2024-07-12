@@ -136,7 +136,7 @@ special = true
 
 [[params.cta.link]]
 href = "#"
-text = "Learn More"
+text = "Conheça-me"
 special = false
 
 [params.contact]
