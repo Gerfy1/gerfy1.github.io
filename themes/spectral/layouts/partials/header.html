@@ -43,6 +43,13 @@
 						<nav id="nav">
 							<ul>
 								<li class="special">
+									<div id="menu">
+										<ul>
+				              {{ range .Site.Params.menu.main }}
+				              <li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
+				              {{ end }}
+										</ul>
+									</div>
 									<nav id="language-menu">
 		<ul>
 		  <li>
