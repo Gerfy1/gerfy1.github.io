@@ -26,9 +26,9 @@ body_is_markdown = true
 
 [params.one]
 enable = true
-title = 'Currently studying systems development at IESP college.'
+title = 'Atualmente graduando em Analise e Desenvolvimento de Sistemas pela UNIESP(IESP).'
 body = '''
-Currently i am focused on improving my systems development skills at IESP college. I seek to absorb knowledge and practical experience to build a solid foundation in this dynamic and challenging area. I am excited about the learning and growth opportunities that college and courses offers, and I look forward to applying what I learn to future projects'''
+Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas e softwares. Procuro absorver conhecimento e experiência prática para construir uma base sólida nesta área dinâmica e desafiadora. Estou entusiasmado com as oportunidades de aprendizado e crescimento no qual os estudos oferecem e espero aplicar o que aprendi em todos os projetos.'''
 
 [[params.one.icon]]
 icon = "fa-face-laugh-beam"
