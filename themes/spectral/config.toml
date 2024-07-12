@@ -28,7 +28,7 @@ body_is_markdown = true
 enable = true
 title = 'Atualmente graduando em Analise e Desenvolvimento de Sistemas pela UNIESP(IESP).'
 body = '''
-Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas e softwares. Procuro absorver conhecimento e experiência prática para construir uma base sólida nesta área dinâmica e desafiadora. Estou entusiasmado com as oportunidades de aprendizado e crescimento no qual os estudos oferecem e espero aplicar o que aprendi em todos os projetos.'''
+Estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas e softwares. Procuro absorver conhecimento e experiência prática para construir uma base sólida nesta área dinâmica e desafiadora. Estou entusiasmado com as oportunidades de aprendizado e crescimento no qual os estudos oferecem e espero aplicar o que aprendi em todos os projetos.'''
 
 [[params.one.icon]]
 icon = "fa-face-laugh-beam"
