@@ -2547,6 +2547,44 @@ input, select, textarea {
 			font-size: 1.35em;
 		}
 
+		input[type="submit"].secundary,
+		input[type="reset"].secundary,
+		input[type="button"].secundary,
+		button.sencudary,
+		.button.secundary {
+			background-color: rgb(255 255 255 / 15%);
+			box-shadow: none !important;
+			color: #ffffff !important;
+		}
+			input[type="submit"].secundary:hover,
+			input[type="reset"].secundary:hover,
+			input[type="button"].secundary:hover,
+			button.secundary:hover,
+			.button.secundary:hover {
+				background-color: #1d242a !important;
+			}
+
+			input[type="submit"].secundary:active,
+			input[type="reset"].secundary:active,
+			input[type="button"].secundary:active,
+			button.secundar:active,
+			.button.secundary:active {
+				background-color: #1d242a !important;
+			}
+
+		input[type="submit"].disabled, input[type="submit"]:disabled,
+		input[type="reset"].disabled,
+		input[type="reset"]:disabled,
+		input[type="button"].disabled,
+		input[type="button"]:disabled,
+		button.disabled,
+		button:disabled,
+		.button.disabled,
+		.button:disabled {
+			pointer-events: none;
+			opacity: 0.25;
+		}
+
 		input[type="submit"].primary,
 		input[type="reset"].primary,
 		input[type="button"].primary,
@@ -2555,6 +2593,7 @@ input, select, textarea {
 			background-color: rgb(255 255 255 / 15%);
 			box-shadow: none !important;
 			color: #ffffff !important;
+			width: 182.85px;
 		}
 
 			input[type="submit"].primary:hover,
