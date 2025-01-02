@@ -57,7 +57,7 @@ O FipeApp é uma aplicação Java que permite aos usuários consultar preços m�
 
 A aplicação permite consultar preços médios de acordo com o mês e ano de referência. Você também pode pesquisar por marca, modelo e ano do veículo desejado.
 
-Tecnologias utilizadas: Java, API, Json, Spring, Maven.
+Tecnologias utilizadas: Java, API, Spring, Maven.
 
 Link do projeto: (https://github.com/Gerfy1/FipeAPP)
 '''
