@@ -57,7 +57,7 @@ O FipeApp é uma aplicação Java que permite aos usuários consultar preços m�
 
 A aplicação permite consultar preços médios de acordo com o mês e ano de referência. Você também pode pesquisar por marca, modelo e ano do veículo desejado.
 
-Tecnologias utilizadas: Java, API, Json, Spring, Maven
+Tecnologias utilizadas: Java, API, Json, Spring, Maven.
 
 Link do projeto: (https://github.com/Gerfy1/FipeAPP)
 '''
@@ -69,7 +69,7 @@ Este projeto desenvolve uma API REST para gerenciar operações em um consultór
 
 Este projeto visa demonstrar a aplicação prática dessas tecnologias e práticas no contexto de desenvolvimento de APIs RESTful para aplicações corporativas.
 
-Tecnologias utilizadas: Java, DTO, Banco de Dados, Flyway, Requisições HTTP, Beans, Spring Security, JWT, Spring Doc, Fluxo Given/When/Then, JUnit & AssetJ, Mockito
+Tecnologias utilizadas: Java, DTO, Banco de Dados, Flyway, Requisições HTTP, Beans, Spring Security, JWT, Spring Doc, Fluxo Given/When/Then, JUnit & AssetJ, Mockito.
 
 Link do projeto: (https://github.com/Gerfy1/MedAPI)
 '''
@@ -83,7 +83,7 @@ O Fórum Hub é um desafio proposto na conclusão do programa Oracle ONE. O proj
 
 As regras de negócio determinam que apenas usuários cadastrados podem criar, editar ou deletar tópicos e respostas. A autenticação é feita com tokens Bearer, e somente o autor pode modificar seu conteúdo. Cada tópico deve ter um título, uma mensagem, estar vinculado a um curso e incluir uma data de criação.
 
-Tecnologias utilizadas: Java, Spring, MySQL, Hibernate, JWT, Lombok, Flyway, Spring Security, Spring Data JPA, SpringDoc
+Tecnologias utilizadas: Java, Spring, MySQL, Hibernate, JWT, Lombok, Flyway, Spring Security, Spring Data JPA, SpringDoc.
 
 Link do projeto: (https://github.com/Gerfy1/ForumHub)
 '''
