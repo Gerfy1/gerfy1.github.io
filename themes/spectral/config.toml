@@ -57,7 +57,7 @@ O FipeApp é uma API REST desenvolvida em Java que permite aos usuários consult
 
 Essa tabela é uma referência essencial para negociações e avaliações no mercado automobilístico brasileiro.
 
-Tecnologias utilizadas: Java, API, Spring Boot, Maven, Integração com APIs externas.
+Tecnologias utilizadas: Java, API, Spring, Maven, Integração com APIs externas.
 
 Acesse o projeto: (https://github.com/Gerfy1/FipeAPP)
 '''
@@ -69,7 +69,7 @@ Este projeto desenvolve uma API RESTful para gerenciar operações em um consult
 
 A solução integra tanto o lado do cliente quanto o servidor, permitindo comunicação e manipulação de dados de forma eficiente e segura.
 
-Tecnologias utilizadas: Java, Spring Boot, DTO, Banco de Dados, Flyway, Requisições HTTP, Beans, Spring Security, JWT, Spring Doc, Fluxo Given/When/Then, JUnit & AssetJ, Mockito.
+Tecnologias utilizadas: Java, Spring, DTO, Banco de Dados, Flyway, Requisições HTTP, Beans, Spring Security, JWT, Spring Doc, Fluxo Given/When/Then, JUnit & AssetJ, Mockito.
 
 Acesse o projeto: (https://github.com/Gerfy1/MedAPI)
 '''
@@ -79,9 +79,9 @@ Acesse o projeto: (https://github.com/Gerfy1/MedAPI)
 img = "img/Coding-bro-_1_ -resize.png"
 title = 'Forum HUB'
 body = '''
-O Fórum Hub é um desafio proposto na conclusão do programa Oracle ONE. O projeto visa consolidar conhecimentos e replicar a parte de Back-End de um fórum, focando em práticas de desenvolvimento e integração de sistemas.
+O Fórum Hub é um desafio proposto na conclusão da especialização da Oracle ONE, focado na construção do Back-End de um fórum. 
 
-As regras de negócio determinam que apenas usuários cadastrados podem criar, editar ou deletar tópicos e respostas. A autenticação é feita com tokens Bearer, e somente o autor pode modificar seu conteúdo. Cada tópico deve ter um título, uma mensagem, estar vinculado a um curso e incluir uma data de criação.
+O projeto implementa práticas de desenvolvimento e integração de sistemas, oferecendo funcionalidades como a criação, edição e exclusão de tópicos e respostas apenas por usuários autenticados.
 
 Tecnologias utilizadas: Java, Spring, MySQL, Hibernate (ORM), JWT, Lombok, Flyway, Spring Security, Spring Data JPA, SpringDoc.
 
