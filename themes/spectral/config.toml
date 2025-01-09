@@ -7,9 +7,9 @@ theme = "spectral"
 #googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
-fancyTitle = "Gerfy"
+fancyTitle = "Geraldo"
 favicon = true
-copyright = "Gerfy"
+copyright = "Geraldo"
 description = 'Software Developer<br/>SHAPING IDEAS INTO REALITY<br />'
 startbuttonText = "Github"
 startbuttonLink = "https://github.com/Gerfy1"
