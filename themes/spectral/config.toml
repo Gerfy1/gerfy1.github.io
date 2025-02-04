@@ -71,7 +71,7 @@ A solução integra tanto o lado do cliente quanto o servidor, permitindo comuni
 
 Tecnologias utilizadas: Java, Spring, DTO, Banco de Dados, Flyway, Requisições HTTP, Beans, Spring Security, JWT, Spring Doc, Fluxo Given/When/Then, JUnit & AssetJ, Mockito.
 
-Acesse o projeto: (https://github.com/Gerfy1/MedAPI)
+Acesse o projeto: <a href="https://github.com/Gerfy1/MedAPI" target="_blank" rel="noopener noreferrer">GitHub - MedAPI</a>
 '''
 
 
