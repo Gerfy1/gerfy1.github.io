@@ -57,7 +57,7 @@ O FipeAPI é uma API REST desenvolvida em Java que permite aos usuários consult
 
 Essa tabela é uma referência essencial para negociações e avaliações no mercado automobilístico brasileiro.
 
-Tecnologias utilizadas: Java, API, Spring, Maven, Integração com APIs externas.
+Tecnologias utilizadas: Java, API, Spring, Maven e Integração com APIs externas.
 
 Acesse o projeto: (https://github.com/Gerfy1/FipeAPP)
 '''
