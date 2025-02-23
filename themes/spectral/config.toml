@@ -65,7 +65,7 @@ Acesse o projeto: (https://github.com/Gerfy1/FipeAPP)
 img = "img/Hand-coding-bro-_1_-resize.png"
 title = 'Med API'
 body = '''
-MedAPI é um projeto que desenvolve uma API RESTful CRUD para gerenciar operações em um consultório médico. 
+MedAPI é um projeto que desenvolve uma API RESTful (CRUD) para gerenciar operações em um consultório médico. 
 
 A solução integra tanto o lado do cliente quanto o servidor, permitindo comunicação e manipulação de dados de forma eficiente e segura.
 
