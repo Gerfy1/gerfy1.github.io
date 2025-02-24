@@ -53,7 +53,7 @@ img = "img/Code-typing-bro-_1_-resize.png"
 img_alt = "blurry background: white/grey"
 title = 'FIPE API<br/>'
 body = '''
-O FipeAPI é uma API REST desenvolvida em Java que permite aos usuários consultar preços médios de veículos com base na Tabela Fipe. 
+FipeAPI é uma API REST desenvolvida em Java que permite aos usuários consultar preços médios de veículos com base na Tabela Fipe. 
 
 Essa tabela é uma referência essencial para negociações e avaliações no mercado automobilístico brasileiro.
 
@@ -79,7 +79,7 @@ Acesse o projeto: (https://github.com/Gerfy1/MedAPI)
 img = "img/Coding-bro-_1_ -resize.png"
 title = 'Forum HUB'
 body = '''
-O Fórum Hub é um desafio proposto na conclusão da especialização da Oracle ONE, focado na construção do Back-End de um fórum. 
+Fórum Hub é um desafio proposto na conclusão da especialização da Oracle ONE, focado na construção do Back-End de um fórum. 
 
 O projeto implementa práticas de desenvolvimento e integração de sistemas, oferecendo funcionalidades como a criação, edição e exclusão de tópicos e respostas apenas por usuários autenticados.
 
