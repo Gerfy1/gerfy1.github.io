@@ -92,7 +92,7 @@ Link do projeto: (https://github.com/Gerfy1/ForumHub)
 enable = true
 title = 'Habilidades e pontos principais'
 body = '''
-Pensamento crítico, adaptabilidade, criatividade, aprendizado contínuo e flexibilidade cognitiva são algumas das minhas soft skills. Conheça um pouco mais sobre elas abaixo.
+Pensamento crítico, adaptabilidade, criatividade, aprendizado contínuo e flexibilidade são algumas das minhas soft skills. Conheça um pouco mais sobre elas abaixo.
 '''
 
 [[params.three.feature]]
